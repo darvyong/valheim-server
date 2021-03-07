@@ -15,8 +15,6 @@ git remote add origin https://github.com/darvyong/valheim-server.git
 git pull origin main
 ```
 
-4. Open GitHub for Desktop, select the "Valheim Server" repository and click the Fetch Origin Button
-
 ## Before Playing:
 1. Open GitHub for Desktop and fetch Origin to make sure you have latest world files.
 2. Check if anybody else is playing. Make sure to invite people using the Valheim channel on Discord! This is to avoid file conflict problems.
